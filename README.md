@@ -1,0 +1,2 @@
+# mystaticweb
+StaticWebApp_azure
